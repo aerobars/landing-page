@@ -1,0 +1,2 @@
+This project will be the design of a landing page, which I hope to use to develop my knowledge of html and css to eventually be able to design my own web page.
+Building my own web page will help me to build my html, css, and eventually, js skills, which I hope to use to find a new and better paying job.
