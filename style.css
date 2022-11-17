@@ -1,3 +1,4 @@
+/* font and background stylings, with some display declarations */
 body {
   font-family: "roboto", sans-serif;
   display: flex;
@@ -12,7 +13,6 @@ button {
   background-color: #3882f6;
 }
 
-/* font and background stylings, with some display declarations */
 .block-one, .footer {
   background-color: #1f2937;
 }
