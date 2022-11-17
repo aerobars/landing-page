@@ -1,0 +1,80 @@
+body {
+  font-family: "roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.block-four__blue-box {
+  background-color: #3882f6;
+}
+
+button {
+  background-color: #3882f6;
+}
+
+/* font and background stylings, with some display declarations */
+.block-one, .footer {
+  background-color: #1f2937;
+}
+
+.header__logo {
+  font-size: 24px;
+}
+
+.header__logo, .left__title {
+  color:#f9faf8;
+}
+
+.left__title {
+  font-weight: 900;
+  font-size: 48px;
+}
+
+ul {
+  padding: 10px;
+  display: flex;
+}
+
+ul, .left__subtext, .bottom__placeholder {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.block-two__title {
+  font-weight: 900;
+}
+
+.block-three__quote, .block-two__title {
+  color: #1f2937;
+  font-size: 36px;
+}
+
+.block-three__quote {
+  font-style: italic;
+  font-weight: 100;
+}
+
+/* (most) flex declarations and block positioning*/
+.block-one {
+  display: flex;
+  flex-direction: column;
+}
+
+.block-one__top {
+  display: flex;
+  flex-direction: row;
+}
+
+.block-two {
+  display: flex;
+}
+
+.block-three {
+  background-color: #e5e7eb;
+  display: flex;
+}
+
+.block-four {
+  display: flex;
+}
+
